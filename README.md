@@ -12,9 +12,9 @@ It may be unpleasant in the moment but being challenged, being pushed outside my
 ## Expectations
 Outside of what i take for granted as the most basic aspects of professional, mature behavior, there are a couple of things i expect from myself and the other engineers on my team.
 ### Diligence
-Engineers should apply thought, consideration and care to every task they undertake. This can on all kinds of forms but for myself it means doing things like running code before submitting a PR, re-reading anything intended for audience of size greater than 0 and avoiding distractions during meetings. The goal here isn't perfection but simply taking care in what we do.
+Engineers should apply thought, consideration and care to every task they undertake. This can take on all kinds of forms but for myself it means doing things like running code before submitting a PR, re-reading anything intended for an audience of size greater than 0 and avoiding distractions during meetings. The goal here isn't perfection but simply taking care in what we do.
 ### Honest Effort
-There is of course nothing wrong with not knowing the answer to any given question or not being able to accomplish certain tasks, and espressing that lack of knowledge should never be a source of shame or embarrassment, but before relying on those around us we should first make an effort to find our own answers or solve our own problems. This is a double-win: not only do we grow our knowledge and abilities, we respect the time and attention of those around us. 
+There is of course nothing wrong with not knowing the answer to any given question or not being able to accomplish a certain task, and espressing that lack of knowledge or capability should never be a source of shame or embarrassment. That said, before relying on those around us we should first make an effort to find our own answers or solve our own problems. This is a double-win: not only do we grow our knowledge and abilities, we respect the time and attention of our teammates. 
 
 For myself i usually strive for 15-20 minutes of trying to figure things out on my own and if i make absolutely no progress at all or have no idea where to look or what to try next only then will i reach out for help from others. 
 ## Our One-on-Ones
